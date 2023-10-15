@@ -1,6 +1,6 @@
 # ADM-HW1
 
-Please read! I am very sorry! Since I uploaded the original .py file, I found out I had to export it as .ipynb for my python code in Jupyter Notebook. I left the original file that was uploaded before the deadline (2125078_ADM_HW1_solutions.py) and I also uploaded the Jupyter Notebook one a couple of minutes ago. I hope this isn't a problem regarding the deadline and I apologise again for my mistake!
+Please read! I made an error, I am sorry!! Since I uploaded the original .py file, I found out I had to export it as .ipynb for my python code in Jupyter Notebook. I left the original file that was uploaded before the deadline (2125078_ADM_HW1_solutions.py) and I also uploaded the same script exported as Jupyter Notebook one a couple of minutes after the deadline. I hope this isn't a problem regarding the deadline policy and I apologise again for my mistake!
 
 The purpose of this repository is to submit the first ADM Homework 23/24.
 
