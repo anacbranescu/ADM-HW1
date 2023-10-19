@@ -2,9 +2,9 @@
 
 I mixed up my personal and institutional emails as after I was originally registered for ADM with the personal gmail, I also received the Sapienza gmail. I will list here all that information and also a file with the AWS modules results, as I was originally registered with my personal email. I am sorry for the problem I caused! I get all my emails in one place and didn't notice, it won't happen again!
 
-Sapienza gmail: branescu.2125078@studenti.uniroma1.it
+Sapienza email: branescu.2125078@studenti.uniroma1.it
 
-Personal gmail: ana.branescu03@gmail.com
+Personal email: ana.branescu03@gmail.com
 
 AWS account: ana.branescu03@gmail.com
 
@@ -18,6 +18,8 @@ Each directory provides the following files:
 
 - 2125078_ADM_HW1_solutions.ipynb : solutions of the completed ADM Homework 1 exercises. Problem 1 and 2 in Jupyter Notebook.
 
-- 2125078_ADM_HW1_solutions.pdf : PDF assessing the successful exercises. Problem 1 and 2.
+- 2125078_ADM_HW1_solutions.pdf : PDF presenting screenshots of the successful exercises on Hackerank. Problem 1 and 2.
+
+- 2125078_AWS_results.pdf : PDF presenting the successful AWS modules - Problem 3. Account: ana.branescu03@gmail.com
   
 - README.md file: description of the repository
