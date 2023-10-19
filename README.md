@@ -10,7 +10,7 @@ AWS account: ana.branescu03@gmail.com
 
 Since I uploaded the original .py file, I found out I had to export it as .ipynb for my python code in Jupyter Notebook. I left the original file that was uploaded before the deadline (2125078_ADM_HW1_solutions.py) and I also uploaded the same script exported as Jupyter Notebook one a couple of minutes after the deadline.
 
-The purpose of this repository is to submit the first ADM Homework 23/24.
+## The purpose of this repository is to submit the first ADM Homework 23/24.
 
 Each directory provides the following files:
 
